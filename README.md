@@ -1,2 +1,2 @@
-# The-Minecraft-Bro
+# The Minecraft Bro
 A random minecraft discord bot.
